@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-apoorv99goyal/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-apoorv99goyal/static/js/main.65d3d02c.chunk.js",
+    "main.js.map": "/portfolio-apoorv99goyal/static/js/main.65d3d02c.chunk.js.map",
+    "runtime-main.js": "/portfolio-apoorv99goyal/static/js/runtime-main.236684ee.js",
+    "runtime-main.js.map": "/portfolio-apoorv99goyal/static/js/runtime-main.236684ee.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-apoorv99goyal/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.23254554.chunk.js": "/portfolio-apoorv99goyal/static/js/2.23254554.chunk.js",
+    "static/js/2.23254554.chunk.js.map": "/portfolio-apoorv99goyal/static/js/2.23254554.chunk.js.map",
+    "index.html": "/portfolio-apoorv99goyal/index.html",
+    "precache-manifest.70edcda14e53c6eb39fece07db6de216.js": "/portfolio-apoorv99goyal/precache-manifest.70edcda14e53c6eb39fece07db6de216.js",
+    "service-worker.js": "/portfolio-apoorv99goyal/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-apoorv99goyal/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-apoorv99goyal/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.23254554.chunk.js.LICENSE.txt": "/portfolio-apoorv99goyal/static/js/2.23254554.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-apoorv99goyal/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-apoorv99goyal/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.236684ee.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.23254554.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.65d3d02c.chunk.js"
+  ]
+}
